@@ -15,14 +15,14 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://s_imai.github.io',
+  url: 'https://imai-s.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/docs-as-code/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 's_imai', // Usually your GitHub org/user name.
+  organizationName: 'imai-s', // Usually your GitHub org/user name.
   projectName: 'docs-as-code', // Usually your repo name.
 
   onBrokenLinks: 'throw',
